@@ -6,8 +6,8 @@ const allSnake = snakeNames.all;
 
 describe('snake names', function() {
   describe('all', function() {
-    it('should return an object containing all 200 snake names', function() {
-      expect(Object.keys(allSnake).length).toEqual(200);
+    it('should return an object containing all 555 snake names', function() {
+      expect(Object.keys(allSnake).length).toEqual(555);
     });
   });
 
