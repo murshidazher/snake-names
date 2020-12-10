@@ -25,11 +25,11 @@ describe('snake names', function() {
   });
 
   describe('male/female snake', function() {
-    const maleSnake = Object.keys(snakeNames.maleSnake).map(
-      snake => snakeNames.maleSnake[snake],
+    const maleSnake = Object.keys(snakeNames.male).map(
+      snake => snakeNames.male[snake],
     );
-    const femaleSnake = Object.keys(snakeNames.femaleSnake).map(
-      snake => snakeNames.femaleSnake[snake],
+    const femaleSnake = Object.keys(snakeNames.female).map(
+      snake => snakeNames.female[snake],
     );
     it('should ONLY contain names of male snake', function() {
       expect(maleSnake).not.toEqual(expect.arrayContaining(femaleSnake));
