@@ -1,3 +1,16 @@
+# v0.3.1 (Thu Dec 10 2020)
+
+#### ⚠️ Pushed to `master`
+
+- fix: fix release brach name ([@murshidazher](https://github.com/murshidazher))
+- chore: add pull-release workflow ([@murshidazher](https://github.com/murshidazher))
+
+#### Authors: 1
+
+- Murshid Azher ([@murshidazher](https://github.com/murshidazher))
+
+---
+
 # v0.2.1 (Thu Dec 10 2020)
 
 #### ⚠️ Pushed to `master`
