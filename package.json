@@ -9,7 +9,8 @@
   },
   "scripts": {
     "precommit": "lint-staged",
-    "test": "jest --ci --coverage && codecov"
+    "test": "jest --ci --coverage && codecov",
+    "release": "auto shipit --base-branch=main"
   },
   "keywords": [
     "random",
