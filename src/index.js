@@ -15,9 +15,11 @@ const random = function(n) {
   return randomSnake;
 };
 
-module.exports = {
-  all: allSnake,
-  allMaleSnake: maleSnake,
-  allFemaleSnake: femaleSnake,
-  random: random,
-};
+exports.female = femaleSnake;
+exports.male = maleSnake;
+exports.all = allSnake;
+exports.random = random;
+
+exports.femaleRandom = uniqueRandomArray(femaleSnake);
+exports.maleRandom = uniqueRandomArray(maleSnake);
+exports.allRandom = uniqueRandomArray(allSnake);
