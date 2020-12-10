@@ -1,9 +1,9 @@
-# [snake-names](https://github.com/murshidazher/snake-names)[![npm](https://img.shields.io/npm/v/snake-names.svg?label=&color=0080FF)](https://github.com/murshidazher/snake-names/releases/tag/v1.0.0)
+# [snake-names](https://github.com/murshidazher/snake-names)  [![npm](https://img.shields.io/npm/v/snake-names.svg?label=&color=0080FF)](https://github.com/murshidazher/snake-names/releases/tag/v1.0.0)
 
 [![npm](https://img.shields.io/npm/v/snake-names.svg?style=flat-square)](https://www.npmjs.com/package/snake-names)
 [![npm](https://img.shields.io/npm/dt/snake-names.svg?style=flat-square)](https://www.npmjs.com/package/snake-names)
 [![npm](https://img.shields.io/npm/v/snake-names.svg?style=flat-square)](https://www.npmjs.com/package/snake-names)
-[![travisci](https://img.shields.io/travis/murshidazher/snake-names/master?style=flat-square)](https://travis-ci.com/)
+[![travisci](https://img.shields.io/travis/com/murshidazher/snake-names/master?style=flat-square)](https://travis-ci.com/)
 ![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 ![codecov](https://img.shields.io/codecov/c/github/murshidazher/snake-names/master?style=flat-square&token=3d957dab-0e23-4997-8525-a87eb3ffd3b5)
 
