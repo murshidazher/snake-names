@@ -2,6 +2,21 @@
 
 #### ⚠️ Pushed to `master`
 
+- fix: cli join export (murshidazher@yahoo.com)
+- fix: fix release brach name ([@murshidazher](https://github.com/murshidazher))
+- chore: add pull-release workflow ([@murshidazher](https://github.com/murshidazher))
+
+#### Authors: 2
+
+- Murshid Azher ([@murshidazher](https://github.com/murshidazher))
+- murshidazher (murshidazher@yahoo.com)
+
+---
+
+# v0.3.1 (Thu Dec 10 2020)
+
+#### ⚠️ Pushed to `master`
+
 - fix: fix release brach name ([@murshidazher](https://github.com/murshidazher))
 - chore: add pull-release workflow ([@murshidazher](https://github.com/murshidazher))
 
