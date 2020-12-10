@@ -7,18 +7,30 @@
 ![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
 
-> Get popular snake names
+> Get popular snake names. Certified Lit 🔥🔥 __Accepting PRs for additional names.__
 
-__Accepting PRs for additional names.__
+- A npm package to return a list of popular snake names.
 
+## Table of Contents
 
-## Install
+  - [Table of Contents](#table-of-contents)
+  - [Installing / Getting started](#installing--getting-started)
+  - [Usage](#usage)
+  - [CLI](#cli)
+  - [API](#api)
+  - [License](#license)
 
-```
+## Installing / Getting started
+
+A quick introduction of the minimal setup you need to get a up & running.
+
+```shell
 $ npm install --save snake-names
 ```
 
 ## Usage
+
+Here's a brief intro about what a developer must do in order to start developing the project further:
 
 ```js
 const snakeNames = require('snake-names');
@@ -27,29 +39,42 @@ snakeNames.random();
 //=> 'Albert'
 ```
 
+## CLI
+
+```
+$ npm install --global snake-names
+```
+
+```
+$ snake-names --help
+
+  Get popular snake names
+
+  Usage
+    $ snake-names
+
+  Options
+    --all   Get all the names instead of a random name
+    --type  Type of name  [Default: all]  [Values: female, male, all]
+
+  Examples
+    $ snake-names
+    Albert
+    $ snake-names --all --type male
+    Adrian
+    Igor
+    …
+```
+
 ## API
 
-### .all
+|       Method      |     Type     | Description                                                                                                             |
+|:-----------------:|:------------:|-------------------------------------------------------------------------------------------------------------------------|
+|       `.all`      |     array    | List all popular snake names                                                                                            |
+|  `.allMaleSnake`  |     array    | List all popular male snake names                                                                                       |
+| `.allFemaleSnake` |     array    | List all popular female snake names                                                                                     |
+|    `.random(n)`   | string/array | returns a random snake name if no param is provided . Otherwise, returns an array of random snake names of length  `n`. |
 
-Type: `array`
+## License
 
-Lists all 200 popular snake names
-
-### .allMaleSnake
-
-Type: `array`
-
-Lists all popular male snake names
-
-### .allFemaleSnake
-
-Type: `array`
-
-Lists all popular female snake names
-
-### .random(n: Number)
-
-Type: `function`
-
-Returns a random snake name, if no param is provided. Otherwise, returns an array of random snake of length `n`
-
+[MIT](https://github.com/murshidazher/snake-names/blob/master/LICENSE) © Murshid Azher.
