@@ -1,3 +1,17 @@
+# v0.4.1 (Fri Dec 11 2020)
+
+#### ⚠️ Pushed to `master`
+
+- docs: update the doc badges ([@murshidazher](https://github.com/murshidazher))
+- fix: fix test exception ([@murshidazher](https://github.com/murshidazher))
+- chore: update the test file ([@murshidazher](https://github.com/murshidazher))
+
+#### Authors: 1
+
+- Murshid Azher ([@murshidazher](https://github.com/murshidazher))
+
+---
+
 # v0.3.1 (Thu Dec 10 2020)
 
 #### ⚠️ Pushed to `master`
