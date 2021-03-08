@@ -1,3 +1,15 @@
+# v1.0.2 (Mon Mar 08 2021)
+
+#### ⚠️ Pushed to `master`
+
+- :books: docs: update the release link ([@murshidazher](https://github.com/murshidazher))
+
+#### Authors: 1
+
+- Murshid Azher ([@murshidazher](https://github.com/murshidazher))
+
+---
+
 # v1.0.1 (Mon Mar 08 2021)
 
 #### 🐛 Bug Fix
