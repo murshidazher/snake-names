@@ -1,3 +1,20 @@
+# v1.0.1 (Mon Mar 08 2021)
+
+#### 🐛 Bug Fix
+
+- Updating your docs [#1](https://github.com/murshidazher/snake-names/pull/1) ([@brandiw](https://github.com/brandiw))
+
+#### ⚠️ Pushed to `master`
+
+- ci: remove the build command ([@murshidazher](https://github.com/murshidazher))
+
+#### Authors: 2
+
+- Brandi Williams ([@brandiw](https://github.com/brandiw))
+- Murshid Azher ([@murshidazher](https://github.com/murshidazher))
+
+---
+
 # v0.4.1 (Fri Dec 11 2020)
 
 #### ⚠️ Pushed to `master`
