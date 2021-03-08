@@ -1,4 +1,4 @@
-# [snake-names](https://github.com/murshidazher/snake-names)  [![npm](https://img.shields.io/npm/v/snake-names.svg?label=&color=0080FF)](https://github.com/murshidazher/snake-names/releases/tag/v1.0.0)
+# [snake-names](https://github.com/murshidazher/snake-names)  [![npm](https://img.shields.io/npm/v/snake-names.svg?label=&color=0080FF)](https://github.com/murshidazher/snake-names/releases/latest)
 
 
 [![travisci](https://img.shields.io/travis/com/murshidazher/snake-names/master?style=flat-square)](https://travis-ci.com/)
