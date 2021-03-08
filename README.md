@@ -69,10 +69,13 @@ $ snake-names --help
 
 |       Method      |     Type     | Description                                                                                                             |
 |:-----------------:|:------------:|-------------------------------------------------------------------------------------------------------------------------|
-|       `.all`      |     array    | List all popular snake names                                                                                            |
-|  `.allMaleSnake`  |     array    | List all popular male snake names                                                                                       |
-| `.allFemaleSnake` |     array    | List all popular female snake names                                                                                     |
-|    `.random(n)`   | string/array | returns a random snake name if no param is provided . Otherwise, returns an array of random snake names of length  `n`. |
+|  `.all`       |     array    | List all popular snake names                                                                                            |
+|  `.male`      |     array    | List all popular male snake names                                                                                       |
+|  `.female`    |     array    | List all popular female snake names                                                                                     |
+|  `.cute`      |     array    | List all cute snake names                                                                                               |
+|  `.unique`    |     array    | List all unique snake names                                                                                             |
+|  `.famous`    |     array    | List all famous snake names                                                                                             |
+|  `.random(n)` | string/array | returns a random snake name if no param is provided . Otherwise, returns an array of random snake names of length  `n`. |
 
 ## License
 
