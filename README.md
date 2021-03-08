@@ -24,7 +24,7 @@
 A quick introduction of the minimal setup you need to get a up & running.
 
 ```shell
-$ npm install --save snake-names
+$ npm install snake-names
 ```
 
 ## Usage
@@ -75,7 +75,7 @@ $ snake-names --help
 |  `.cute`      |     array    | List all cute snake names                                                                                               |
 |  `.unique`    |     array    | List all unique snake names                                                                                             |
 |  `.famous`    |     array    | List all famous snake names                                                                                             |
-|  `.random(n)` | string/array | returns a random snake name if no param is provided . Otherwise, returns an array of random snake names of length  `n`. |
+|  `.random(n)` | string/array | returns a random snake name if no param is provided.  Otherwise, returns an array of random snake names of length  `n`. |
 
 ## License
 
