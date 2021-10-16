@@ -6,7 +6,7 @@
 
 > Get popular snake names. Certified Lit 🔥🔥 **Accepting PRs for additional names.**
 
-- A npm package to return a list of popular snake names.
+- An npm package to return a list of popular snake names.
 
 ## Table of Contents
 
@@ -25,13 +25,26 @@ A quick introduction of the minimal setup you need to get a up & running.
 ```shell
 $ npm install snake-names
 ```
+OR
+```shell
+$ yarn add snake-names
+```
 
 ## Usage
 
-Here's a brief intro about what a developer must do in order to start developing the project further:
+Here's a brief intro about what a developer must do in order to start developing the project further:   
 
+**ES5**:
 ```js
 const snakeNames = require('snake-names');
+
+snakeNames.random();
+//=> 'Albert'
+```
+
+**React or ES6**:
+```js
+import snakeNames from "snake-names";
 
 snakeNames.random();
 //=> 'Albert'
@@ -41,6 +54,10 @@ snakeNames.random();
 
 ```
 $ npm install --global snake-names
+```
+OR
+```
+$ npm global add snake-names
 ```
 
 ```
