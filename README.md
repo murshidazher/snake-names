@@ -1,4 +1,4 @@
-# [snake-names](https://github.com/murshidazher/snake-names) [![npm](https://img.shields.io/npm/v/snake-names.svg?label=&color=0080FF)](https://github.com/murshidazher/snake-names/releases/latest)
+# [snake - names](https: //github.com/murshidazher/snake-names) [![npm](https://img.shields.io/npm/v/snake-names.svg?label=&color=0080FF)](https://github.com/murshidazher/snake-names/releases/latest)
 
 [![travisci](https://img.shields.io/travis/com/murshidazher/snake-names/master?style=flat-square)](https://travis-ci.com/)
 [![codecov](https://img.shields.io/codecov/c/gh/murshidazher/snake-names/master?logo=codecov&style=flat-square&token=L8FWILY45J)](https://codecov.io/gh/murshidazher/snake-names)
@@ -10,7 +10,8 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
+- [snake - names [![npm](https://img.shields.io/npm/v/snake-names.svg?label=&color=0080FF)](https://github.com/murshidazher/snake-names/releases/latest)](#snake---nameshttps-githubcommurshidazhersnake-names-)
+  - [Table of Contents](#table-of-contents)
   - [Installing / Getting started](#installing--getting-started)
   - [Usage](#usage)
   - [CLI](#cli)
@@ -25,7 +26,9 @@ A quick introduction of the minimal setup you need to get a up & running.
 ```shell
 $ npm install snake-names
 ```
+
 OR
+
 ```shell
 $ yarn add snake-names
 ```
@@ -35,6 +38,7 @@ $ yarn add snake-names
 Here's a brief intro about what a developer must do in order to start developing the project further:   
 
 **ES5**:
+
 ```js
 const snakeNames = require('snake-names');
 
@@ -43,6 +47,7 @@ snakeNames.random();
 ```
 
 **React or ES6**:
+
 ```js
 import snakeNames from "snake-names";
 
@@ -52,15 +57,17 @@ snakeNames.random();
 
 ## CLI
 
-```
+```shell
 $ npm install --global snake-names
 ```
+
 OR
-```
-$ npm global add snake-names
+
+```shell
+$ yarn global add snake-names
 ```
 
-```
+```shell
 $ snake-names --help
 
   Get popular snake names
