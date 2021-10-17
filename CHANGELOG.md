@@ -1,3 +1,15 @@
+# v1.0.5 (Sun Oct 17 2021)
+
+#### 🐛 Bug Fix
+
+- [docs] As user, I should find the accurate installation instructions [#4](https://github.com/murshidazher/snake-names/pull/4) ([@murshidazher](https://github.com/murshidazher))
+
+#### Authors: 1
+
+- Murshid Azher ([@murshidazher](https://github.com/murshidazher))
+
+---
+
 # v1.0.4 (Sun Oct 17 2021)
 
 #### 🐛 Bug Fix
