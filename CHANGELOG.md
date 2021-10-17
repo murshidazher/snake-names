@@ -1,3 +1,15 @@
+# v1.0.4 (Sun Oct 17 2021)
+
+#### 🐛 Bug Fix
+
+- Added instructions for Yarn and React/ES6 [#3](https://github.com/murshidazher/snake-names/pull/3) ([@NayamAmarshe](https://github.com/NayamAmarshe))
+
+#### Authors: 1
+
+- [@NayamAmarshe](https://github.com/NayamAmarshe)
+
+---
+
 # v1.0.3 (Mon Mar 08 2021)
 
 #### ⚠️ Pushed to `master`
