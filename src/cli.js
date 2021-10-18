@@ -34,7 +34,7 @@ const cli = meow(
       },
       n: {
         type: 'number',
-        default: 1,
+        default: NaN,
       },
     },
   },
