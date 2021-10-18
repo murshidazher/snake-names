@@ -1,3 +1,15 @@
+# v1.0.7 (Mon Oct 18 2021)
+
+#### 🐛 Bug Fix
+
+- Updated cli.js to default n to NaN [#2](https://github.com/murshidazher/snake-names/pull/2) ([@berniefitz82](https://github.com/berniefitz82))
+
+#### Authors: 1
+
+- Bernie FitzGerald ([@berniefitz82](https://github.com/berniefitz82))
+
+---
+
 # v1.0.6 (Mon Oct 18 2021)
 
 #### 🐛 Bug Fix
