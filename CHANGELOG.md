@@ -1,3 +1,15 @@
+# v1.0.9 (Mon Oct 18 2021)
+
+#### ⚠️ Pushed to `master`
+
+- :gear: config: add ISSUE and PR templates ([@murshidazher](https://github.com/murshidazher))
+
+#### Authors: 1
+
+- Murshid Azher ([@murshidazher](https://github.com/murshidazher))
+
+---
+
 # v1.0.7 (Mon Oct 18 2021)
 
 #### 🐛 Bug Fix
