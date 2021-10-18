@@ -1,18 +1,19 @@
-# .github/workflows/push.yml
+# .github/workflows/pull_request.yml
 
 ## name of our action
 name: Release
 
 # the event that will trigger the action
 on:
-  push:
+  pull_request:
     branches: [master]
+    types: [closed]
 
 # what the action will do
 jobs:
   release:
     runs-on: ubuntu-latest
-    if: "!contains(github.event.head_commit.message, 'ci skip') && !contains(github.event.head_commit.message, 'skip ci')"
+    if: "!contains(github.event.head_commit.message, 'ci skip') && !contains(github.event.head_commit.message, 'skip ci') && github.event.pull_request.merged == true"
     steps:
       - uses: actions/checkout@v2
       - name: Prepare repository
@@ -28,3 +29,11 @@ jobs:
           key: yarn-deps-${{ hashFiles('yarn.lock') }}
           restore-keys: |
             yarn-deps-${{ hashFiles('yarn.lock') }}
+
+      - name: Create Release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: |
+          yarn install --frozen-lockfile
+          yarn release
