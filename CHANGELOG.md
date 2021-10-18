@@ -1,3 +1,15 @@
+# v1.0.6 (Mon Oct 18 2021)
+
+#### 🐛 Bug Fix
+
+- As user, I should be able to see the correct repo title [#5](https://github.com/murshidazher/snake-names/pull/5) ([@murshidazher](https://github.com/murshidazher))
+
+#### Authors: 1
+
+- Murshid Azher ([@murshidazher](https://github.com/murshidazher))
+
+---
+
 # v1.0.5 (Sun Oct 17 2021)
 
 #### 🐛 Bug Fix
