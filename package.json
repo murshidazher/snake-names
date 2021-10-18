@@ -1,6 +1,6 @@
 {
   "name": "snake-names",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Get popular snake names",
   "main": "src/index.js",
   "bin": "src/cli.js",
