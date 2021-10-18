@@ -1,4 +1,4 @@
-# [snake - names](https: //github.com/murshidazher/snake-names) [![npm](https://img.shields.io/npm/v/snake-names.svg?label=&color=0080FF)](https://github.com/murshidazher/snake-names/releases/latest)
+# [snake-names](https://github.com/murshidazher/snake-names) [![npm](https://img.shields.io/npm/v/snake-names.svg?label=&color=0080FF)](https://github.com/murshidazher/snake-names/releases/latest)
 
 [![travisci](https://img.shields.io/travis/com/murshidazher/snake-names/master?style=flat-square)](https://travis-ci.com/)
 [![codecov](https://img.shields.io/codecov/c/gh/murshidazher/snake-names/master?logo=codecov&style=flat-square&token=L8FWILY45J)](https://codecov.io/gh/murshidazher/snake-names)
@@ -10,8 +10,7 @@
 
 ## Table of Contents
 
-- [snake - names [![npm](https://img.shields.io/npm/v/snake-names.svg?label=&color=0080FF)](https://github.com/murshidazher/snake-names/releases/latest)](#snake---nameshttps-githubcommurshidazhersnake-names-)
-  - [Table of Contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
   - [Installing / Getting started](#installing--getting-started)
   - [Usage](#usage)
   - [CLI](#cli)
