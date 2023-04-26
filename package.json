@@ -43,7 +43,7 @@
     "unique-random-array": "3.0.0"
   },
   "devDependencies": {
-    "auto": "10.44.0",
+    "auto": "10.46.0",
     "codecov": "3.8.2",
     "commitizen": "4.3.0",
     "cz-conventional-changelog": "3.3.0",
