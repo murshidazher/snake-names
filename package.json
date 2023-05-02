@@ -39,7 +39,7 @@
   "license": "MIT",
   "dependencies": {
     "flat-zip": "^1.0.1",
-    "meow": "^11.0.0",
+    "meow": "^12.0.0",
     "unique-random-array": "3.0.0"
   },
   "devDependencies": {
