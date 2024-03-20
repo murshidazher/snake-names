@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "auto": "11.1.1",
-    "codecov": "3.8.2",
+    "codecov": "3.8.3",
     "commitizen": "4.3.0",
     "cz-conventional-changelog": "3.3.0",
     "eslint": "8.57.0",
