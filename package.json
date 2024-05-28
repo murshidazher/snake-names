@@ -40,7 +40,7 @@
   "dependencies": {
     "flat-zip": "^1.0.1",
     "meow": "^13.0.0",
-    "unique-random-array": "3.0.0"
+    "unique-random-array": "4.0.0"
   },
   "devDependencies": {
     "auto": "11.1.1",
