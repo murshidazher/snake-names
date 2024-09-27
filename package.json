@@ -45,7 +45,7 @@
   "devDependencies": {
     "auto": "11.1.6",
     "codecov": "3.8.3",
-    "commitizen": "4.3.0",
+    "commitizen": "4.3.1",
     "cz-conventional-changelog": "3.3.0",
     "eslint": "9.6.0",
     "eslint-config-airbnb-base": "15.0.0",
